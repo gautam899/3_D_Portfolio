@@ -31,7 +31,6 @@ import chegg from "./company/chegg.png";
 
 import healthcare from "./healthcare.png";
 import jobit from "./jobit.png";
-import task from "./task.png";
 import promtify from "./promtify.png";
 import chat from "./chat.png";
 
@@ -65,7 +64,6 @@ export {
   tesla,
   healthcare,
   jobit,
-  task,
   promtify,
   chat,
 };
